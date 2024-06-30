@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paper Route</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Paper Route</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Week of June 24, 2024</title>
+      <link>http://localhost:1313/posts/24062024/</link>
+      <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/24062024/</guid>
+      <description>Week of June 24, 2024 Openings Lo’s Burgers New Cart and Location Friday, 12:00pm – 8:00pm&#xA;The long-time resident of Creepy’s is opening their own cart this Friday, June 28, at 3944 N Williams Ave. To celebrate the launch, they are offering $3 burgers all day. Hours run from 12pm to 8pm.&#xA;Popups Pipsqueak Bagels @ Decibel Sound and Drink Saturday, 10:00am – 1:00pm&#xA;Madilyn Gibbons’ boiled bagel popup has brought about the rare morning open of the hi-fi lounge.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,4 @@
+baseURL = 'https://paperroute.pub/'
+languageCode = 'en-us'
+title = 'Paper Route'
+theme = 'blank'
